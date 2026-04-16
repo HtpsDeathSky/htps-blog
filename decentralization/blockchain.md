@@ -1,5 +1,3 @@
-# Web3
-
 ## Prologue
 
 [Web3学习路线图]: https://learnblockchain.cn/maps/Roadmap
